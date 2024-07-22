@@ -25,7 +25,7 @@ var config = {
 			position: "lower_third",
 			config: {
 				updateInterval: 30, //second
-				upgradeInetrval: 30 //minute
+				upgradeInetrval: 30, //minute
 				animationSpeed: 1 //second
 			}
 		},
