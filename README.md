@@ -4,7 +4,7 @@ Magic Mirror模块，主要显示当前微博热搜。
 
 
 ## 预览
-![MMM-weboTopic](screenshot.png)
+![MMM-weiboTopic](screenshot.png)
 
 ## 安装
 运行以下命令：
