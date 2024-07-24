@@ -11,7 +11,7 @@ Magic Mirror模块，主要显示当前微博热搜。
 
 ```shell
 cd modules
-git clone https://github.com/slacker-HD/MMM-weboTopic.git
+git clone https://github.com/slacker-HD/MMM-weiboTopic.git
 cd ..
 npm install puppeteer
 ```
